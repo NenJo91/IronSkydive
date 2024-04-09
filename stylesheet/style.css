@@ -1,4 +1,6 @@
+/*Importing fonts from Google*/
 @import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:700|Roboto:100,300,700');
+
 
 * {
   margin: 0;
@@ -45,7 +47,7 @@ h5 {
     font-size: 1.2em;
     line-height: 1em;
 }
-
+/*NavBar not finished*/
 #main-nav {
     background-color: rgb(25, 33, 41);
     width: 100%;
@@ -118,6 +120,7 @@ h5 {
 .service-box img {
     width: 125px;
 }
+/*Section 3 not finished*/
 #team article, p {
     margin-top: 10px;
     margin-bottom: 10px;
