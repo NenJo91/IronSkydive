@@ -54,7 +54,8 @@ h5 {
     height: 50px;
     text-align: center;
 }
-.box{
+
+.box > li{
     float: left;
     width: 33%;
     padding-top: 10px;
