@@ -48,16 +48,18 @@ h5 {
     line-height: 1em;
 }
 /*NavBar not finished*/
-#main-nav {
+#main-nav > ul {
     background-color: rgb(25, 33, 41);
     width: 100%;
+    height: 50px;
+    text-align: center;
 }
-
-#main-nav li {
-    display: inline;
-        
+.box{
+    float: left;
+    width: 33%;
+    padding-top: 10px;
+    overflow: auto;
 }
-
 #main-nav a {
     
     color: #fff;
@@ -121,6 +123,7 @@ h5 {
     width: 125px;
 }
 /*Section 3 not finished*/
+
 #team article, p {
     margin-top: 10px;
     margin-bottom: 10px;
@@ -138,7 +141,7 @@ h5 {
 #team img {
     width: 250px;
     height: 180px;
-    margin-top: 10px;
+    margin-top: 10px;    
 }
 
 .footer {
